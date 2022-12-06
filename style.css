@@ -1,0 +1,136 @@
+div.top {
+  background-color: #D1FBFF;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  width: 100%;
+  height: 680px;
+  display: inline-block;
+}
+
+h1 {
+  color: #66BFBF;
+  font-family: "Sofia", cursive;
+  font-size: 562.5%;
+  text-align: center;
+  margin-left: 0;
+  margin-right: 7%;
+  margin-top: 0;
+  margin-bottom: 10px;
+  display: inline-block;
+  line-height: 2;
+}
+h2 {
+  color: #66BFBF;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+body {
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  padding: 0;
+  margin: 0;
+  width: auto;
+  text-align: center;
+}
+
+.a-programmer {
+  font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+  text-align: center;
+  left: 47%;
+  top: 10%;
+}
+
+.cloud1 {
+  display: inline-block;
+  position: relative;
+  top: 22%;
+  left: 45%;
+}
+
+.cloud2 {
+  display: inline-block;
+  position: absolute;
+  top: =-55%;
+  left: 15%;
+
+}
+
+.mountain1 {
+  display: inline-block;
+  position: relative;
+  top: 10%;
+  left: 0%;
+}
+
+.brown {
+  width: 100%;
+  height: 40px;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  background-color: #641E16;
+  display: inline-block;
+}
+
+.profile-pic {
+  height: 300px;
+  width: 250px;
+  border-radius: 50%;
+  overflow: hidden;
+  border: 5px solid #66BFBF;
+}
+
+p {
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
+h3 {
+  font-family: 'Oswald', sans-serif;
+}
+.python-pic {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+.html-pic {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+.css-pic {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+}
+
+.graphics-pic {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  margin-left: 20px;
+}
+.web-pic {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  margin-left: 20px;
+}
+.cnc-pic {
+  height: 200px;
+  width: 200px;
+  display: inline-block;
+  margin-left: 20px;
+}
+a {
+  color: #66BFBF;
+}
+.skill-row {
+    margin: 100px auto 100px auto;
+}
